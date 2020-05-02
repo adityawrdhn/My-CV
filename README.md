@@ -1,5 +1,5 @@
 # React Server Side Rendering
-A baseline for server side rendering for your React application. This Project contains 
+A baseline for server side rendering for your React application. This Project contains :
 ## Features
 
 This project has support for the following things:
@@ -7,6 +7,7 @@ This project has support for the following things:
 -   General Setup
     -   🔥 Webpack 4
     -   🔥 Babel 7
+    -   🔥 Multiple Theme (Light and Dark Mode) using Styled Component
     -   ✅ Server side prerendering with Express
     -   ✅ Hot Module Reloading (HMR)
     -   ✅ CSS Modules
@@ -50,11 +51,10 @@ Run production mode
 Run production mode with PM2 Server
 
 
-## [NEW] Static Rendering is READY 🔥
+## Static Rendering 🔥
 
 Beginning with v1.3.0, a **static** `index.html` is also generated and written to your `clientBuild` directory. You are now able to deploy the `build/client` directory to a static webhost (such as Netlify or AWS S3) and serve your application from there!
 
-For the generation of the `index.html` the server side build gets started right after building, a headless Chrome then visits the site and writes the content of the server side response to your client directory. So you still need the `src/Server.js` file and the server side build but you're now flexible and can decide on your own whether you want to have the full server side experience or only deploy your completely static app somewhere.
 
 Noteworthy scripts:
 
