@@ -1,0 +1,139 @@
+{
+    "translation": {
+        "nav_menu": {
+            "home": "Beranda",
+            "about_us": "Tentang Kami",
+            "benefit": "Keuntungan",
+            "partner": "Partner",
+            "gallery": "Galeri",
+            "contact_us": "Kontak Kami"
+        },
+        "home_slider": {
+            "title": ["Jual produk dengan", "cepat dan mudah bersama eMart"],
+            "desc": "eMart adalah cashierless mini convenient store yang menjual beraneka produk makanan, minuman, hingga akesoris gadget paling laris di Indonesia."
+        },
+        "home_content": {
+            "general": {
+                "learn_more": "SELENGKAPNYA",
+                "see_more": "SELENGKAPNYA",
+                "submit": "KIRIM",
+                "content": [
+                    {
+                        "title": "elevenia mart itu apa sih?",
+                        "desc": "Singkatnya sih, eMart itu semacam gabungan antara vending machine dan kantin kejujuran. Bedanya, semua transaksi yang dilakukan termonitor dengan baik pakai teknologi yang bisa sekalian report penjualan dan restocking produk secara otomatis."
+                    },
+                    {
+                        "title": "Sistem di eMart",
+                        "desc": "Kita ada device yang berfungsi buat jadi mesin kasir, tracking penjualan, dan report update stock sekaligus. Dengan adanya device itu, semua penjualan pasti tercatat dengan baik dan barang ngga akan pernah kehabisan."
+                    }
+                ]
+            },
+            "benefit": {
+                "title": "Merchant Benefits",
+                "sub": "Ini yang akan kamu dapetin kalau gabung jadi merchant eMart",
+                "list": [
+                    {
+                        "title": "Fully Managed",
+                        "desc": [
+                            "Kita yang handle semua! Mulai dari delivery, restock, pemilihan produk, dan layanan-layanan lainnya.",
+                            "Kamu cukup sediakan tempat, trus enjoy deh liat dagangan laku."
+                        ]
+                    },
+                    {
+                        "title": "Convenience & Efficient",
+                        "desc": [
+                            "Unit eMart akan kita taruh sedekat mungkin dengan pelanggan kamu. Jadi, bisa dikembangkan dan diakses kapan pun dengan mudah.",
+                            "Dengan eMart kamu bisa jualan selama apapun yang kamu mau!"
+                        ]
+                    },
+                    {
+                        "title": "Cashier-Less",
+                        "desc": [
+                            "Kamu nggak perlu hire orang buat jadi kasir, karena semua sudah include di device kita. eMart juga available buat semua e-wallet asal sudah support QRIS.",
+                            "(GoPay, OVO, Dana, Link Aja, Sakuku, iSaku, etc.)."
+                        ]
+                    },
+                    {
+                        "title": "Artificial Intelligence Driven",
+                        "desc": [
+                            "Device yang kita pakai ada machine learning algorithmnya lhoo. Dari data penjualan yang ada, dia bisa atur kapan harus restock, & kapan harus sesuaikan harga.",
+                            "We will adapt to your needs."
+                        ]
+                    },
+                    {
+                        "title": "Curated Products",
+                        "desc": [
+                            "Dengan eMart, kamu bisa cobain sensai jualan produk pilihan yang paling laris di pasaran. Varian produk yang kita jual juga beragam mulai dari makanan, minuman, hingga kabel charger, dan bahkan power bank!"
+                        ]
+                    },
+                    {
+                        "title": "Dashboard",
+                        "desc": [
+                            "Melalui dashboard dalam device emart, kamu bisa lihat semua statistik penjualan dan performa toko."
+                        ]
+                    }
+                ]
+            },
+            "partners": {
+                "title": "Partners",
+                "sub": "Pihak-pihak yang udah kerjasama sama eMart",
+                "list": [
+                    {
+                        "title": "Brands",
+                        "sub": "Brand-brand keren yang jualan bareng eMart"
+                    },
+                    {
+                        "title": "Merchants",
+                        "sub": "Mitra-mitra lokasi jualan eMart"
+                    },
+                    {
+                        "title": "Payment & Logistics",
+                        "sub": "Mitra-mitra operasional eMart"
+                    }
+                ]
+            },
+            "testimony": {
+                "title": "Testimony",
+                "sub": "Apa kata merchants & partner kami"
+            },
+            "gallery": {
+                "title": "Lihat perjalanan eMart sampai sekarang yuk",
+                "sub": "Take a look on our complete section of image and video gallery."
+            },
+            "contact": {
+                "title": "Let’s Talk!",
+                "sub": ["Ngobrol yuk kali aja jodoh,", "tanya apapun kita jawab kok"],
+                "ask": "Hallo, mau tanya apa?",
+                "note": "*Kita bisa jawab pertanyaan kamu setiap hari Senin s/d Jumat jam 9 pagi - 6 sore"
+            }
+        },
+        "about_content": {
+            "title": "Tentang eMart",
+            "content": [
+                {
+                    "title": "elevenia mart itu apa sih?",
+                    "desc": "Singkatnya sih, eMart itu semacam gabungan antara vending machine dan kantin kejujuran. Bedanya, semua transaksi yang dilakukan termonitor dengan baik pakai teknologi yang bisa sekalian report penjualan dan restocking produk secara otomatis."
+                },
+                {
+                    "title": "Sistem di eMart",
+                    "desc": "Kita ada device yang berfungsi buat jadi mesin kasir, tracking penjualan, dan report update stock sekaligus. Dengan adanya device itu, semua penjualan pasti tercatat dengan baik dan barang ngga akan pernah kehabisan."
+                },
+                {
+                    "title": "We Make Everything Easy",
+                    "desc": "Misi utama kita itu buat mendekatkan jajanan terlaris, sedekat mungkin dengan pembeli. Udah gitu, kita buat transaksinya semudah mungkin dan gak ribet. Jadi, bersama eMart semua orang bisa belanja cepat dan belanja mudah sekaligus."
+                }
+            ]
+        },
+        "partner_content": {
+            "title": "Kategori Produk",
+            "sub": "Ini jenis-jenis produk yang dijual di emart",
+            "testimony": {
+                "title": "Testimony",
+                "sub": "Apa kata merchants & partner kami"
+            }
+        },
+        "gallery_content": {
+            "title": "Lihat-lihat eMart kami"
+        }
+    }
+}

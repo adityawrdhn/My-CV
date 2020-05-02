@@ -1,0 +1,143 @@
+{
+    "nav_menu": {
+        "about_us": "About Us",
+        "benefit": "Benefit",
+        "partner": "Partners",
+        "gallery": "Galleries",
+        "contact_us": "Contact Us"
+    },
+    "home_slider": {
+        "title": [
+            "elevenia Mart", 
+            "Is A Self-Managed Mini Convenient Marketplace."
+        ],
+        "desc": "We provide convenient solution for our partners and customers with support from our proprietary technology and core business relations"
+    },
+    "home_content": {
+        "general": {
+            "learn_more": "LEARN MORE",
+            "see_more": "SEE MORE",
+            "submit": "SUBMIT",
+            "content": [
+                {
+                    "title": "What is elevenia Mart?",
+                    "desc": "We’ve actually already asked hundreds of women what they want, and made a database with the results. All you have to do is take our short survey that only takes seconds, and our proprietary algorithm will match you with a few perfect gift options."
+                },
+                {
+                    "title": "Our System",
+                    "desc": "We’ve actually already asked hundreds of people what they want, and made a database with the results."
+                }
+            ]
+        },
+        "benefit": {
+            "title": "Merchant Benefits",
+            "sub": "Some great stuffs from us",
+            "list": [
+                {
+                    "title": "Fully Managed",
+                    "desc": [
+                        "We’ll take care of everything. From deliveries, restocking, product selection, even service needs.",
+                        "We set it, you just enjoy the service."
+                    ]
+                },
+                {
+                    "title": "Convenience & Efficient",
+                    "desc": [
+                        "We place stores right where you are. Close to your customer, easy reach, and expandable.",
+                        "Serve your customer anytime, any day for as long as you want."
+                    ]
+                },
+                {
+                    "title": "Cashier-Less",
+                    "desc": [
+                        "We have a self-managed solution, means no need to provide extra resources!",
+                        "We also make payment available through ALL e-wallet using QRIS (GoPay, OVO, Dana, Link Aja, Sakuku, iSaku, etc.)."
+                    ]
+                },
+                {
+                    "title": "Artificial Intelligence Driven",
+                    "desc": [
+                        "We operate using machine learning algorithm. It'll automatically manage sales, stock replenishment, & provide competitive pricing.",
+                        "We will adapt to your needs."
+                    ]
+                },
+                {
+                    "title": "Curated Products",
+                    "desc": [
+                        "We will provide the best products for you. We have various products, from snacks, beverages, cable charger, and even power banks.",
+                        "Our AI will evolve overtime based on your customer’s behaviour."
+                    ]
+                },
+                {
+                    "title": "Dashboard",
+                    "desc": [
+                        "We provide transparency, so you can see your performance at any time through our dashboard."
+                    ]
+                }
+            ]
+        },
+        "partners": {
+            "title": "Partners",
+            "sub": "Who are we working with",
+            "list": [
+                {
+                    "title": "Brands",
+                    "sub": "Great brands that we have"
+                },
+                {
+                    "title": "Merchants",
+                    "sub": "Where are we currently stationed at"
+                },
+                {
+                    "title": "Payment & Logistics",
+                    "sub": "They help us handle our operations & activities"
+                }
+            ]
+        },
+        "testimony": {
+            "title": "Testimony",
+            "sub": "What did they say about us"
+        },
+        "gallery": {
+            "title": "Let’s see what we’ve been doing up untill now",
+            "sub": "Take a look on our complete section of image and video gallery."
+        },
+        "contact": {
+            "title": "Let’s Talk!",
+            "sub": [
+                "Ask us a hundred questions,",
+                "we’ll give you thousand answers"
+            ],
+            "ask": "What do you want to ask?",
+            "note": "*We can answer your question immediately every Monday to Friday from 9AM-6PM"
+        }
+    },
+    "about_content": {
+        "title": "About eMart",
+        "content": [
+            {
+                "title": "What is elevenia Mart?",
+                "desc": "We’ve actually already asked hundreds of women what they want, and made a database with the results. All you have to do is take our short survey that only takes seconds, and our proprietary algorithm will match you with a few perfect gift options."
+            },
+            {
+                "title": "Our System",
+                "desc": "We’ve actually already asked hundreds of people what they want, and made a database with the results. "
+            },
+            {
+                "title": "We Make Everything Easy",
+                "desc": "We’ve actually already asked hundreds of women what they want, and made a database with the results. All you have to do is take our short survey that only takes seconds, and our proprietary algorithm will match you with a few perfect gift options."
+            }
+        ]
+    },
+    "partner_content": {
+        "title": "Product Category",
+        "sub": "Great brands that have been working with us",
+        "testimony": {
+            "title": "Testimony",
+            "sub": "What did they say about us"
+        }
+    },
+    "gallery_content": {
+        "title": "Let’s see what we’ve been doing up untill now"
+    }
+}

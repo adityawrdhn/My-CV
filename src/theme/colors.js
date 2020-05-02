@@ -1,0 +1,38 @@
+const light = {
+    transparent: 'transparent',
+    black: '#222831',
+    blackHover: '#1a1a1a',
+    black70: '#828282',
+    black50: '#BDBDBD',
+    white: '#ffffff',
+    whiteHover: '#f2f2f3',
+    primary: '#d60824',
+    primaryHover: '#900619',
+    secondary: '#d6088b',
+    secondaryHover: '#ad0771',
+    yellow: '#F2994A',
+    green: '#27AE60',
+    borderColor: '#1b1e25',
+    boxShadow: '-4px 8px 20px 0px rgba(16,66,97,0.12)',
+    boxShadowHover: '-4px 12px 24px 0px rgba(16,66,97,0.2)',
+}
+
+const dark = {
+    transparent: 'transparent',
+    black: '#ffffff',
+    blackHover: '#f2f2f3',
+    black70: '#8899A6',
+    black50: '#9A9A9A',
+    white: '#222831',
+    whiteHover: '#1a1a1a',
+    primary: '#d60824',
+    primaryHover: '#900619',
+    secondary: '#d6088b',
+    secondaryHover: '#ad0771',
+    yellow: '#F2994A',
+    green: '#27AE60',
+    borderColor: '#1b1e25',
+    boxShadow: '-4px 8px 20px 0px rgba(10, 74, 113, 0.38)',
+    boxShadowHover: '-4px 12px 24px 0px rgba(10, 74, 113, 0.5)',
+}
+export { light, dark }
