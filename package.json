@@ -1,13 +1,13 @@
 {
-    "name": "elevenia-mart-landing-page",
-    "version": "0.1.0",
-    "description": "Elevenia Mart Landing Page",
-    "author": "Elevenia technology division",
-    "copyright": "Copyright 2019 elevenia technology division",
+    "name": "my-cv",
+    "version": "1.0.0",
+    "description": "Aditya CV website",
+    "author": "adityawrdhn",
+    "copyright": "adityawrdhn",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git@github.com:elevenia/elevenia-mart-landing-page.git"
+        "url": "git@github.com:adityawrdhn/my-cv.git"
     },
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
