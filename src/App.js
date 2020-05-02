@@ -9,7 +9,7 @@ import Home from 'pages/Home'
 const App = () => {
     return (
         <Fragment>
-            <Helmet titleTemplate="Elevenia Mart - %s" defaultTitle="Elevenia Mart">
+            <Helmet titleTemplate="Aditya Wardhana CV- %s" defaultTitle="Aditya Wardhana CV">
                 <link rel="icon" href={favicon} />
                 <link
                     href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900"

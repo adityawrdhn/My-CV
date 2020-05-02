@@ -11,19 +11,19 @@ const Template = ({ children, head, scripts, css, state, i18nState, style }) => 
                 <meta name="theme-color" content="#000000" />
                 <meta
                     name="description"
-                    content="eMart adalah cashierless mini convenient store yang menjual beraneka produk makanan, minuman, hingga aksesoris gadget paling laris di Indonesia"
+                    content="CV Website of Aditya Wardhana"
                 />
                 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-                <meta name="generator" content="Elevenia Technology Division" />
+                <meta name="generator" content="Adityawrdhn" />
                 <meta
                     name="keywords"
                     itemProp="keywords"
-                    content="business, emart, cashbierless, convenient, store, makanan, minuman, technology, elevenia"
+                    content="cv, resume, aditya, bayu, wardhana, aditya bayu, aditya wardhana, react, ssr, react ssr, multiple theme react, styled component"
                 />
                 <meta name="web_author" content="Elevenia Technology Division" />
                 <meta
                     itemProp="headline"
-                    content="eMart adalah cashierless mini convenient store yang menjual beraneka produk makanan, minuman, hingga aksesoris gadget paling laris di Indonesia"
+                    content="CV Website of Aditya Wardhana"
                 />
                 <meta name="copyright" itemProp="dateline" content="Elevenia Technology Division" />
                 <meta name="robots" content="index, follow" />
