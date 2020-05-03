@@ -200,26 +200,26 @@ const Experience = () => {
                                 <MediaRight>
                                     <MediaNumber mb={0}>01</MediaNumber>
                                     <MediaTitle mb={0}>ELEVENIA</MediaTitle>
-                                    <MediaInfo mb={16}>April 2019 - Now</MediaInfo>
+                                    <MediaInfo mb={16}>April 2019 - Present</MediaInfo>
                                     <MediaCaption>
                                         <Icon icon={plus} size={12} /> Developed dozens of
                                         features/modules of Elevenia Mart Web Admin Application.
                                         <br />
-                                        <Icon icon={plus} size={12} /> Developed some features of
+                                        <Icon icon={plus} size={12} /> Developed several features of
                                         Elevenia Seller Mobile Web
                                         <br />
                                         <Icon icon={plus} size={12} /> Developed Front-End project
                                         base skeleton
                                         <br />
-                                        <Icon icon={plus} size={12} /> Developed Isomorphic React
+                                        <Icon icon={plus} size={12} /> Implementing Isomorphic React
                                         SSR for Elevenia Mart Landing Page.
                                         <br />
-                                        <Icon icon={plus} size={12} /> Developed some modules of
+                                        <Icon icon={plus} size={12} /> Developed several modules of
                                         Elevenia Master UI (Elevenia UI Components)
                                         <br />
                                         <Icon icon={plus} size={12} /> Helped develop some features
-                                        in several Elevenia Project like LPI Project, Indostation
-                                        Project, and Elevenia Seller Mobile
+                                        in several Elevenia Projects (LPI, Indostation, and Elevenia
+                                        Seller Mobile App)
                                         <br />
                                     </MediaCaption>
                                 </MediaRight>
@@ -246,8 +246,8 @@ const Experience = () => {
                                     <MediaTitle mb={0}>TRANS RETAIL INDONESIA</MediaTitle>
                                     <MediaInfo mb={16}>JANUARY 2019 - APRIL 2019</MediaInfo>
                                     <MediaCaption>
-                                        <Icon icon={plus} size={12} /> Developed B2B business Back
-                                        Office application called ANTUM
+                                        <Icon icon={plus} size={12} /> Developed several features of
+                                        B2B business Back Office application called ANTUM
                                         <br />
                                     </MediaCaption>
                                 </MediaRight>
@@ -274,11 +274,12 @@ const Experience = () => {
                                     <MediaTitle mb={0}>MNC INVESTAMA</MediaTitle>
                                     <MediaInfo mb={16}>FEBRUARY 2018 - DECEMBER 2018</MediaInfo>
                                     <MediaCaption>
-                                        <Icon icon={plus} size={12} /> Developed some
+                                        <Icon icon={plus} size={12} /> Developed several
                                         features/modules of TheFthing 2.0 web and mobile web
                                         front-end
                                         <br />
-                                        <Icon icon={plus} size={12} /> Developed some Thefthing APIs
+                                        <Icon icon={plus} size={12} /> Developed several REST APIs
+                                        for Thefthing application
                                         <br />
                                         <Icon icon={plus} size={12} /> Developed MNC Lido lake
                                         resort website

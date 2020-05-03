@@ -119,8 +119,8 @@ const Education = () => {
                                     LATEST <em>EDUCATION</em>
                                 </TextTitle>
                                 <TextCaption>
-                                    Graduated from Faculty of Computer Science Brawijaya University
-                                    with GPA 3.51
+                                    Bachelor of Computer Science, Brawijaya University <br/>
+                                    GPA 3.51, Graduated August 2017
                                 </TextCaption>
                             </Segment>
                             <Segment pl={24} className="is-mobile">
