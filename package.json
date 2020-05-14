@@ -91,7 +91,8 @@
         "build": "env-cmd -f .env node scripts/build.js",
         "build-static": "env-cmd -f .env node scripts/build-static.js",
         "start": "nodemon build/server/server.js",
-        "pm2:start": "pm2 start pm2.config.js --env production"
+        "pm2:start": "pm2 start pm2.config.js --env production",
+        "pm2-runtime:start": "pm2-runtime start pm2.config.js --env production"
     },
     "eslintConfig": {
         "extends": "react-app"
