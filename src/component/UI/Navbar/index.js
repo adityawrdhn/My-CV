@@ -218,7 +218,7 @@ const Navbar = ({ theme, setTheme }) => {
         })
     }
     const handleChange = () => {
-        theme === 'light' ? setTheme('dark') : setTheme('light')
+        theme === 'light' || !theme ? setTheme('dark') : setTheme('light')
     }
     return (
         <Fragment>

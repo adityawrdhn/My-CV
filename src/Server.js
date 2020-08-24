@@ -21,7 +21,6 @@ import { setLang } from './store/action/language'
 import { ServerStyleSheet } from 'styled-components'
 import ThemesProvider from 'config/ThemesProvider'
 import { setTheme } from 'store/action/theme'
-import Cookie from 'js-cookie'
 
 const app = express()
 app.disable('x-powered-by')
