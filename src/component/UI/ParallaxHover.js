@@ -64,6 +64,7 @@ const Lighting = styled.div`
     bottom: 0;
     right: 0;
     transition: all 0.3s ease-out;
+    border-radius: 16px;
     @media ${(props) => props.theme.devices.sm} {
         display: none;
     }

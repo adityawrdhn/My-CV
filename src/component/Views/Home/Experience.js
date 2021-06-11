@@ -3,6 +3,7 @@ import { Segment, Row, Col, Container } from 'component/UI'
 import styled, { css } from 'styled-components'
 import { layout, space, typography } from 'styled-system'
 import { Fade } from 'react-reveal'
+import Tiket from 'assets/img/tiket.png'
 import Elevenia from 'assets/img/elevenia.png'
 import MNC from 'assets/img/mnc.png'
 import TRI from 'assets/img/transretail.jpg'
@@ -191,6 +192,35 @@ const Experience = () => {
                                         borderRadius={'50%'}
                                     >
                                         <MediaImage
+                                            src={Tiket}
+                                            alt={'Tiket'}
+                                            width={'100%'}
+                                        />
+                                    </MediaImageWrapper>
+                                </MediaLeft>
+                                <MediaRight>
+                                    <MediaNumber mb={0}>01</MediaNumber>
+                                    <MediaTitle mb={0}>TIKET.COM</MediaTitle>
+                                    <MediaInfo mb={16}>September 2020 - Present</MediaInfo>
+                                    <MediaCaption>
+                                        <Icon icon={plus} size={12} /> Develop Tiket Things To Do (TTD) Mobile Web.
+                                        <br />
+                                        <Icon icon={plus} size={12} /> Develop Tiket Things To Do (TTD) Desktop Web.
+                                        <br />
+                                    </MediaCaption>
+                                </MediaRight>
+                            </Media>
+                        </Fade>
+                        <Fade up>
+                            <Media mb={28} p={24} borderRadius={10} bg="white" position="relative">
+                                <MediaLeft>
+                                    <MediaImageWrapper
+                                        p={24}
+                                        width={100}
+                                        height={100}
+                                        borderRadius={'50%'}
+                                    >
+                                        <MediaImage
                                             src={Elevenia}
                                             alt={'Elevenia'}
                                             width={'100%'}
@@ -198,9 +228,9 @@ const Experience = () => {
                                     </MediaImageWrapper>
                                 </MediaLeft>
                                 <MediaRight>
-                                    <MediaNumber mb={0}>01</MediaNumber>
+                                    <MediaNumber mb={0}>02</MediaNumber>
                                     <MediaTitle mb={0}>ELEVENIA</MediaTitle>
-                                    <MediaInfo mb={16}>April 2019 - Present</MediaInfo>
+                                    <MediaInfo mb={16}>April 2019 - September 2020</MediaInfo>
                                     <MediaCaption>
                                         <Icon icon={plus} size={12} /> Developed dozens of
                                         features/modules of Elevenia Mart Web Admin Application.
@@ -242,7 +272,7 @@ const Experience = () => {
                                     </MediaImageWrapper>
                                 </MediaLeft>
                                 <MediaRight>
-                                    <MediaNumber mb={0}>02</MediaNumber>
+                                    <MediaNumber mb={0}>03</MediaNumber>
                                     <MediaTitle mb={0}>TRANS RETAIL INDONESIA</MediaTitle>
                                     <MediaInfo mb={16}>JANUARY 2019 - APRIL 2019</MediaInfo>
                                     <MediaCaption>
@@ -270,7 +300,7 @@ const Experience = () => {
                                     </MediaImageWrapper>
                                 </MediaLeft>
                                 <MediaRight>
-                                    <MediaNumber mb={0}>03</MediaNumber>
+                                    <MediaNumber mb={0}>04</MediaNumber>
                                     <MediaTitle mb={0}>MNC INVESTAMA</MediaTitle>
                                     <MediaInfo mb={16}>FEBRUARY 2018 - DECEMBER 2018</MediaInfo>
                                     <MediaCaption>
@@ -306,11 +336,13 @@ const Experience = () => {
                                     </MediaImageWrapper>
                                 </MediaLeft>
                                 <MediaRight>
-                                    <MediaNumber mb={0}>04</MediaNumber>
+                                    <MediaNumber mb={0}>05</MediaNumber>
                                     <MediaTitle mb={0}>FREELANCE PROJECT</MediaTitle>
                                     <MediaInfo mb={16}>JULY 2017 - Now</MediaInfo>
                                     <MediaCaption>
                                         Developed some websites :<br />
+                                        <Icon icon={plus} size={12} /> Metaco
+                                        <br />
                                         <Icon icon={plus} size={12} /> Wan Solution
                                         <br />
                                         <Icon icon={plus} size={12} /> Interbio

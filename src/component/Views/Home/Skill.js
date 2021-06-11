@@ -262,7 +262,7 @@ const Skill = () => {
                                         </TextInfo>
                                         <TextTag>CRA, SSR, Webpack, Babel, NEXT JS</TextTag>
                                         <TextCaption>
-                                            Elevenia Mart (E-Mart), E-Mart Landing Page, Elevenia
+                                            Tiket TTD, Elevenia Mart (E-Mart), E-Mart Landing Page, Elevenia
                                             Seller, Elevenia Master UI
                                         </TextCaption>
                                         <BarsWrapper percentage={90}>
